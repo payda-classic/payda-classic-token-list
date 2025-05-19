@@ -1,0 +1,19 @@
+{
+  "name": "Payda Classic Token List",
+  "timestamp": "2025-05-19T09:00:00+09:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xdaac932d8a85ed4c005ca0c2ffd7ec070979e3e1",
+      "name": "PAYDA CLASSIC",
+      "symbol": "PDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/payda-classic/payda-classic-token-list/main/logos/logo.png"
+    }
+  ]
+}
