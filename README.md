@@ -83,10 +83,10 @@
 
 ## Official Channels
 
-- Website: https://paydaclassic.io  
-- Telegram: https://t.me/payda_classic  
-- Twitter: https://twitter.com/payda_classic  
-- Email: support@paydaclassic.io
+- Website: https://paydaclassic.com  
+- Telegram: https://t.me/PaydaClassic_Official
+- Twitter: https://x.com/paydaclassic  
+- Email: pdc@nssys.kr
 
 ## Disclaimer
 
